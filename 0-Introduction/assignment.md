@@ -10,4 +10,5 @@ Follow the instructions in the [setup guide](../README.md#setup) to get your env
 
 ### 3. Test your environment
 
-To test that your environment is set up correctly, open the `0-Introduction/notebook.ipynb` notebook and run through the cells. If you can run all the cells without errors, you're good to go!
+To test that your environment is set up correctly, open the `0-Introduction/notebook.ipynb` notebook and run the first cell. If you can run all the cells without errors, you're good to go!
+Then complete the exercises in the notebook to get familiar with importing data and working with Jupyter notebooks.
